@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+
+    font-family: Tahoma, Verdana, 'Trebuchet MS';
+}
+body{
+    background-color: #DCDCDC;
+}
+.list{
+    font-size: 20px;
+}
