@@ -9,7 +9,12 @@ body{
 img{
     width: 300px;
     height: auto;
+
 }
 h2{
     font-family: Tahoma, Verdana, 'Trebuchet MS';
+}
+.Des{
+    width: 300px;
+    display: inline-block;
 }
